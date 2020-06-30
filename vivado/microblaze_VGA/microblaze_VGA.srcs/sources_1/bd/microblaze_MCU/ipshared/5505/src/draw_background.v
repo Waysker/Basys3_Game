@@ -66,12 +66,13 @@ always @(posedge clk) begin
     vga_memory[{write_addr[13:7], write_addr[6:0]}] <= write_rgb;    
   end
   
-//  vga_memory[{7'h5, 7'h14}] <= 12'hFAF; // it will tell if address is generated badly, or memory is written badly
+  //vga_memory[{7'h5, 7'h14}] <= 12'hFAF; // it will tell if address is generated badly, or memory is written badly
   
   if(!(vblnk || hblnk))
 //    {red, green, blue} <= vga_memory[{7'h5, 7'h14}]; // debug
 //    {red, green, blue} <= vga_memory[{vcount/8, hcount/8}];
     {red, green, blue} <= vga_memory[{y_addr, x_addr}];
+
   else
     {red, green, blue} <= 12'h000;
 

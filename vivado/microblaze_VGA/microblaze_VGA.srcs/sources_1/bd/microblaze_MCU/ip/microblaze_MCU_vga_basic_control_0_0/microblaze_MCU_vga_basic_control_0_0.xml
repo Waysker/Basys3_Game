@@ -653,11 +653,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Thu Sep 05 16:22:52 UTC 2019</spirit:value>
+            <spirit:value>Wed Jun 17 16:04:33 UTC 2020</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:707c664d</spirit:value>
+            <spirit:value>9:d36faf37</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -673,11 +673,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Thu Sep 05 16:22:52 UTC 2019</spirit:value>
+            <spirit:value>Wed Jun 17 16:04:33 UTC 2020</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:707c664d</spirit:value>
+            <spirit:value>9:d36faf37</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -693,11 +693,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Thu Sep 05 16:22:52 UTC 2019</spirit:value>
+            <spirit:value>Wed Jun 17 16:04:33 UTC 2020</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:0e46d5fd</spirit:value>
+            <spirit:value>9:ad551c87</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -713,11 +713,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Thu Sep 05 16:22:52 UTC 2019</spirit:value>
+            <spirit:value>Wed Jun 17 16:04:33 UTC 2020</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:0e46d5fd</spirit:value>
+            <spirit:value>9:ad551c87</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -731,11 +731,11 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>GENtimestamp</spirit:name>
-            <spirit:value>Thu Sep 05 16:28:41 UTC 2019</spirit:value>
+            <spirit:value>Wed Jun 17 16:05:41 UTC 2020</spirit:value>
           </spirit:parameter>
           <spirit:parameter>
             <spirit:name>outputProductCRC</spirit:name>
-            <spirit:value>9:707c664d</spirit:value>
+            <spirit:value>9:d36faf37</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1189,19 +1189,19 @@
     <spirit:fileSet>
       <spirit:name>xilinx_verilogsynthesis_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>../../ipshared/7072/src/draw_background.v</spirit:name>
+        <spirit:name>../../ipshared/5505/src/draw_background.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/7072/hdl/vga_basic_control_v1_0_S00_AXI.v</spirit:name>
+        <spirit:name>../../ipshared/5505/hdl/vga_basic_control_v1_0_S00_AXI.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/7072/src/vga_timing.v</spirit:name>
+        <spirit:name>../../ipshared/5505/src/vga_timing.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/7072/hdl/vga_basic_control_v1_0.v</spirit:name>
+        <spirit:name>../../ipshared/5505/hdl/vga_basic_control_v1_0.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
     </spirit:fileSet>
@@ -1216,19 +1216,19 @@
     <spirit:fileSet>
       <spirit:name>xilinx_verilogbehavioralsimulation_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>../../ipshared/7072/src/draw_background.v</spirit:name>
+        <spirit:name>../../ipshared/5505/src/draw_background.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/7072/hdl/vga_basic_control_v1_0_S00_AXI.v</spirit:name>
+        <spirit:name>../../ipshared/5505/hdl/vga_basic_control_v1_0_S00_AXI.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/7072/src/vga_timing.v</spirit:name>
+        <spirit:name>../../ipshared/5505/src/vga_timing.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>../../ipshared/7072/hdl/vga_basic_control_v1_0.v</spirit:name>
+        <spirit:name>../../ipshared/5505/hdl/vga_basic_control_v1_0.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
     </spirit:fileSet>
@@ -1337,7 +1337,7 @@
   <spirit:vendorExtensions>
     <xilinx:coreExtensions>
       <xilinx:displayName>vga_basic_control_v1.0</xilinx:displayName>
-      <xilinx:coreRevision>40</xilinx:coreRevision>
+      <xilinx:coreRevision>44</xilinx:coreRevision>
       <xilinx:tags>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@67ae7327_ARCHIVE_LOCATION">/home/filip/fpga_design/ip_repo/vga_basic_control_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@41d15fca_ARCHIVE_LOCATION">/home/filip/fpga_design/ip_repo/vga_basic_control_1.0</xilinx:tag>
@@ -1933,6 +1933,47 @@
         <xilinx:tag xilinx:name="ui.data.coregen.dd@672ba292_ARCHIVE_LOCATION">/home/filip/fpga_design/ip_repo/vga_basic_control_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@1d67261d_ARCHIVE_LOCATION">/home/filip/fpga_design/ip_repo/vga_basic_control_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@24f0f543_ARCHIVE_LOCATION">/home/filip/fpga_design/ip_repo/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@11c391e2_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@e4a4ddd_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6575937f_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@18008a87_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@11a51d74_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2dc452c6_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3e0b1f31_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2656384d_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3a426c7_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@16c1c8a8_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3b91bc50_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@96b8d90_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3083a636_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@24f6cc9f_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@694fef97_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@39907da_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@322acf19_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2f8237a_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@375197ff_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@733d4df_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6e499f03_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@48323382_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3af7665c_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3576568b_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@65c5b6d6_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1914c0d0_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@d1475cd_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@7ec6be2b_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@30338954_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1fce6504_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@2af19779_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@4a8e4622_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@5e8cc448_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@33dda4fc_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@3db060de_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1cb59686_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@153db74b_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@46e0f357_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@30cb7bcf_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@416722f0_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6641ab9_ARCHIVE_LOCATION">c:/Users/Waysker/Desktop/Studia/HardestGameEver/Projekt/Basys3_Game/ip_repo/vga_ip/vga_basic_control_1.0</xilinx:tag>
       </xilinx:tags>
       <xilinx:configElementInfos>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.CLK.CLK_DOMAIN" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd"/>
@@ -1957,9 +1998,7 @@
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.ID_WIDTH" xilinx:valueSource="constant" xilinx:valuePermission="bd"/>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.MAX_BURST_LENGTH" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd"/>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.NUM_READ_OUTSTANDING" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd"/>
-        <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.NUM_READ_THREADS" xilinx:valuePermission="bd"/>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.NUM_WRITE_OUTSTANDING" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd"/>
-        <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.NUM_WRITE_THREADS" xilinx:valuePermission="bd"/>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.PHASE" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd"/>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.PROTOCOL" xilinx:valueSource="constant" xilinx:valuePermission="bd"/>
         <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.S00_AXI.READ_WRITE_MODE" xilinx:valueSource="constant" xilinx:valuePermission="bd"/>
@@ -1971,10 +2010,10 @@
       </xilinx:configElementInfos>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
-      <xilinx:xilinxVersion>2019.1</xilinx:xilinxVersion>
+      <xilinx:xilinxVersion>2018.3</xilinx:xilinxVersion>
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="a5f4578a"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="ed1368d5"/>
-      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="65e909a0"/>
+      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="8d328c1c"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="55a8ddb9"/>
       <xilinx:checksum xilinx:scope="hdlParameters" xilinx:value="6992ea72"/>
       <xilinx:checksum xilinx:scope="parameters" xilinx:value="1775a9e9"/>
